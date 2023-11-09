@@ -1,5 +1,6 @@
-### Hi there 👋
+### Thanks for visiting my profile! My apologies for it being a bit boring!
 
+[Portfolio](https://thatdns.dev)
 <!--
 **DNS-404/DNS-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
